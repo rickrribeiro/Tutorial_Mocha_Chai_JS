@@ -22,7 +22,6 @@
   "homepage": "https://github.com/rickrribeiro/Tutorial_Mocha_Chai_JS#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.0.2",
-    "selenium-webdriver": "^4.0.0-alpha.1"
+    "mocha": "^6.0.2"
   }
 }
