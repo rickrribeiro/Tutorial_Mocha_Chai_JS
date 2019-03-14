@@ -1,0 +1,23 @@
+{
+  "name": "tutorial_mocha_chai_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickrribeiro/Tutorial_Mocha_Chai_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickrribeiro/Tutorial_Mocha_Chai_JS/issues"
+  },
+  "homepage": "https://github.com/rickrribeiro/Tutorial_Mocha_Chai_JS#readme"
+}
