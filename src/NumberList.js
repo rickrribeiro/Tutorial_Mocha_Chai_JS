@@ -11,7 +11,7 @@ if(!window.NumberList){
         }
 
         this.multiplyAll = function(){
-            if(numbers,length ===0) return null;
+            if(numbers.length ===0) return null;
             let product =0;
             for (var i =0 ; i< numbers.length; i++){
                 product*=numbers[i]
