@@ -15,6 +15,7 @@ describe ('OlaMundo', () => {
     })
     describe('after initialization', () => {
         //it.only('should sum to zero', () => { ou describe.only
+        
             it('should sum to zero', () => {
                 listUnderTest.clear()
                 expect (listUnderTest.sumAll()).to.equal(0)

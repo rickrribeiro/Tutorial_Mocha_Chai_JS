@@ -9,8 +9,8 @@ var data
         
         if (request.status >= 200 && request.status < 400) {
             data.forEach(users => {
-                //console.log(users.age)
                 console.log(request.status)
+                //console.log(users.age)
                 // usersAge.push(users.age)
             })
         } else {
